@@ -1,0 +1,1 @@
+D:\software\flutter\.pub-cache\hosted\pub.dartlang.org\restart_app-1.1.0+1\android\src\main\kotlin\gabrimatic\info\restart\RestartPlugin.kt
